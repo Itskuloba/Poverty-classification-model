@@ -12,8 +12,7 @@
 ## Why this matters (problem definition)
 
 * Poverty measurement is central to development economics and effective policy targeting.
-* Surveys are costly and infrequent — ML gives a scalable, lower-cost way to generate timely poverty estimates and reduce exclusion/inclusion errors in transfer programs.
-* The model aims to maximize recall (minimize missed poor households) while maintaining acceptable precision (avoid misallocating scarce resources).
+* Surveys are costly and rare — ML gives a scalable, lower-cost way to generate timely poverty estimates and reduce exclusion/inclusion errors in transfer programs.
 
 ---
 
