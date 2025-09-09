@@ -1,4 +1,3 @@
-# Poverty-classification-problem
 # Poverty Classification Model — README
 
 ---
