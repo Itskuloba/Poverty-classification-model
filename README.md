@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-**Goal:** Train a machine learning classifier to predict whether an individual earns more than `$50K` per year (`1`) or less/equal to `$50K` (`0`) using demographic and employment-related features from the U.S. Census.
+**Goal:** Train a machine learning classifier to predict whether an individual earns more than `$50K` per year (`1`) or less/equal to `$50K` (`0`) using demographic and employment-related features.
 
 **Intended users:** data scientists, economists, policymakers, and organizations interested in income distribution, labor market analysis, and demographic-economic interactions.
 
@@ -25,7 +25,7 @@
 * **Adult Dataset (UCI Machine Learning Repository)** — U.S. Census income data, 1994.
   🔗 [UCI Adult Dataset](https://archive.ics.uci.edu/dataset/2/adult)
 
-**Features include:** age, workclass, education, marital status, occupation, relationship, race, sex, capital gain/loss, hours worked per week, and native country.
+**Features include:** age, workclass, education, marital status, occupation, relationship, race, sex, capital gain/loss, hours worked per week and native country.
 
 **Target variable:** `income` (<=50K, >50K).
 
